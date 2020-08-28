@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Maxim
 #### I am second year CS student and Java developer
-![I am second year CS student and Java developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am second year CS student and Java developer](https://cdn.pixabay.com/photo/2016/06/24/11/28/glasses-1477081_960_720.jpg)
 
 I am second year computer-science student at ITMO University, Java developer and love algorithms and data structures. Passed Java SE 11 OCA.
 
