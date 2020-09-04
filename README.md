@@ -2,7 +2,7 @@
 #### I am second year CS student and Java developer
 ![I am second year CS student and Java developer](https://cdn.pixabay.com/photo/2016/06/24/11/28/glasses-1477081_960_720.jpg)
 
-I am second year computer-science student at ITMO University, Java developer and love algorithms+data structures. Passed Java SE 11 OCA.
+I am a second-year computer-science student at ITMO University, Java developer, and love algorithms+data structures. Passed Java SE 11 OCA.
 
 Skills: Java / Spring / Liquibase / Swagger / SQL
 
