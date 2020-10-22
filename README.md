@@ -6,7 +6,7 @@ I am a second-year computer-science student at ITMO University, Java developer, 
 
 Skills: Java / Spring / Liquibase / Swagger / SQL
 
-- 🔭 I’m currently working on [PromoCat](https://promocatcompany.com) 
+- 🔭 I’m currently working on [Cone](https://www.cone.ee/about_eng.html) 
 - 🌱 I’m currently learning Java, Kotlin, Scala 
 - 👯 I’m looking to collaborate on Open source projects 
 - 📫 How to reach me: [Telegram](https://t.me/VeriuMaxon), maximgran@gmail.com, [VK](https://vk.com/makcoooh) 
