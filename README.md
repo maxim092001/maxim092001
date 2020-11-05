@@ -4,7 +4,7 @@
 
 I am a second-year computer-science student at ITMO University, Java/Scala developer, and love algorithms+data structures. Passed Java SE 11 OCA.
 
-Skills: Java / Spring / Liquibase / Swagger / SQL
+Skills: Java / Scala / Spring(boot, mvc, data) / Liquibase / Swagger / SQL
 
 - 🔭 I’m currently working on [Cone](https://www.cone.ee/about_eng.html) 
 - 🌱 I’m currently learning Java, Scala, Kotlin 
