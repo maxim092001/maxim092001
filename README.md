@@ -6,8 +6,8 @@ I am a second-year computer-science student at ITMO University, Java/Scala devel
 
 Skills: Java / Scala / Spring(boot, mvc, data) / Liquibase / Swagger / SQL
 
-- 🔭 I’m currently working on [Cone](https://www.cone.ee/about_eng.html) 
-- 🌱 I’m currently learning Java, Scala, Kotlin 
+- 🔭 I’m currently working on [Bloomberg, London](https://www.bloomberg.com/europe) 
+- 🌱 I’m currently learning Scala, Java, Python, Kafka 
 - 👯 I’m looking to collaborate on Open source projects 
 - 📫 How to reach me: [Telegram](https://t.me/VeriuMaxon), maximgran@gmail.com, [VK](https://vk.com/makcoooh) 
 
