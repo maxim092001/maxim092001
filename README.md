@@ -2,12 +2,12 @@
 #### I am third year CS student and Java/Scala developer
 ![I am third year CS student and Java/Scala developer](https://cdn.pixabay.com/photo/2016/06/24/11/28/glasses-1477081_960_720.jpg)
 
-I am a third-year computer-science student at ITMO University, Java/Scala developer, and love algorithms+data structures.
+I am a third-year computer-science student at ITMO University, Scala developer, and love functional programming.
 
-Skills: Java / Scala / Spring(boot, mvc, data) / Liquibase / Swagger / SQL
+Skills: Scala / cats / cats-effect / ZIO / Swagger / SQL
 
 - 🔭 I’m currently working on [Tinkoff, Russia](tinkoff.ru/) 
-- 🌱 I’m currently learning Cats, Scala, Java, Python, Kafka 
+- 🌱 I’m currently learning ZIO, Scala, Kotlin, K8S, Kafka 
 - 👯 I’m looking to collaborate on Open source projects 
 - 📫 How to reach me: [Telegram](https://t.me/VeriuMaxon), maximgran@gmail.com, [VK](https://vk.com/makcoooh) 
 
