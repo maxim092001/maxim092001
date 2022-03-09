@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Maxim
-#### I am third year CS student and Java/Scala developer
+#### I am third year CS student and Scala developer
 ![I am third year CS student and Scala developer](https://cdn.pixabay.com/photo/2016/06/24/11/28/glasses-1477081_960_720.jpg)
 
 I am a third-year computer-science student at ITMO University, Scala developer, and love functional programming.
