@@ -6,7 +6,7 @@ I am Scala developer, and love functional programming.
 
 Skills: Scala / cats / cats-effect / ZIO / Swagger / SQL
 
-- 🔭 I’m currently working on [Tinkoff, Russia](tinkoff.ru/) 
+- 🔭 I’m currently working on [Tinkoff](tinkoff.ru/) 
 - 🌱 I’m currently learning ZIO, Scala, Kotlin, K8S, Kafka 
 - 👯 I’m looking to collaborate on Open source projects 
 - 📫 How to reach me: [Telegram](https://t.me/VeriuMaxon), maximgran@gmail.com, [VK](https://vk.com/makcoooh) 
