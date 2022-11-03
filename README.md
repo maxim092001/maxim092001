@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Maxim
 #### I am third year CS student and Scala developer
-![I am Scala developer](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU1-CC3Yn9jgFih_cOEU3XjxgQPBlc44FVB8TwdZ7BPA&s)
+![I am Scala developer](https://images.unsplash.com/photo-1643113232456-0ca157edb800?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1042&q=80)
 
 I am Scala developer, and love functional programming.
 
