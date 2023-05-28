@@ -1,6 +1,7 @@
 ### Hi there 👋, my name is Maxim
 #### I am SWE at Bloomberg, Derivatives lifecycle.
-![Bloomberg](https://github.com/maxim092001/maxim092001/assets/35135337/6e2574f4-97ef-4784-b502-a467577e095b)
+![Derivatives](https://github.com/maxim092001/maxim092001/assets/35135337/41c5eceb-2f4c-4594-8ad2-924e3fe0323d)
+
 
 I love functional programming!
 
