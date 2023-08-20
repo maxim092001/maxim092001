@@ -6,7 +6,7 @@
 I love functional programming!
 
 
-Skills: Ocaml / Scala / cats / cats-effect / ZIO / Swagger / SQL
+Skills: OCaml / Scala / cats / cats-effect / ZIO / Swagger / SQL
 
 - 🔭 I’m currently working on [Bloomberg](https://www.bloomberg.com/uk) 
 - 🌱 I’m currently learning OCaml
@@ -19,5 +19,5 @@ Skills: Ocaml / Scala / cats / cats-effect / ZIO / Swagger / SQL
 <!---
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=maxim092001&show_icons=true)  
 !-->
-![Profile views](https://gpvc.arturio.dev/maxim092001)  
+<!--- ![Profile views](https://gpvc.arturio.dev/maxim092001)   !-->
 
