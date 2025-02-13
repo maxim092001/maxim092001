@@ -8,7 +8,8 @@ Skills: OCaml / Scala / cats / cats-effect / ZIO / Swagger / SQL
 
 - 🔭 I’m currently working on [Bloomberg](https://www.bloomberg.com/uk) 
 - 🌱 I’m currently learning OCaml
-- 👯 I’m looking to collaborate on Open source projects 
+- 👯 I’m looking to collaborate on Open source projects
+- 🚀 [My tech posts](https://dev.to/maxim092001)
 - 📫 How to reach me: [Telegram](https://t.me/VeriuMaxon), maximgran@gmail.com
 
 
