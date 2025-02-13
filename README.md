@@ -1,8 +1,8 @@
 ### Hi there 👋, my name is Maxim
 
-#### I am SWE and "Infrastructure Champion" at Bloomberg, Fixed Income and Derivatives. Sometimes I write OCaml instead of markdown/emails.
+#### I am SWE and "Infrastructure Champion" at Bloomberg, Fixed Income and Derivatives. 
 
-I love functional programming!
+Sometimes I write OCaml instead of markdown/emails.
 
 Skills: OCaml / Scala / cats / cats-effect / ZIO / Swagger / SQL
 
