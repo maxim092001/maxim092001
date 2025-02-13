@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Maxim
+### Hi there 👋, my name is Max
 
 #### I am SWE and "Infrastructure Champion" at Bloomberg, Fixed Income and Derivatives. 
 
