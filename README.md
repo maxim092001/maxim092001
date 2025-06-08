@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Max
 
-#### I am SWE and "Infrastructure Champion" at Bloomberg, Fixed Income and Derivatives. 
+#### I am SWE and "Engineering Champion" at Bloomberg, Fixed Income and Derivatives. 
 
 Sometimes I write OCaml instead of markdown/emails.
 
